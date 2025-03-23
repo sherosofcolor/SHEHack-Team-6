@@ -1,6 +1,6 @@
 # Hermony
 
-# Team 6
+## Team Members
 - Hrisihika Samani
 - Dhanshree Suresh Baravkar
 - Preksha Patil
@@ -16,22 +16,19 @@ Our project was inspired by the challenges women in tech face when trying to bal
 ### Impact of the Solution
 Hermony addresses these challenges through an integrated platform that combines:
 
-1. **Smart Scheduling Technology**: Our app integrates with work calendars and uses intelligent algorithms to identify potential overload situations. By sending "Boundary Alerts" and providing "No-Zone" features, users can protect their personal time while still meeting professional obligations.
+1. **Well-Being Companion**: The Burnout Tracker monitors work patterns and stress levels using a work-to-personal time ratio methodology. Our research indicates that a ratio above 2.0 correlates with increased burnout symptoms, allowing us to provide timely interventions.
 
-2. **Well-Being Monitoring**: The Burnout Tracker monitors work patterns and stress levels using a work-to-personal time ratio methodology. Our research indicates that a ratio above 2.0 correlates with increased burnout symptoms, allowing us to provide timely interventions.
+2. **Schedule Analytics**: Our app has a dashboard that tracks your work life balance based on Smart Balance Scheduler and personal calendar.
+   
+3. **Smart Balance Scheduler**: Our app integrates with work calendars and uses intelligent algorithms to identify potential overload situations. By sending "Boundary Alerts" and providing "No-Zone" features, users can protect their personal time while still meeting professional obligations.
 
-3. **Community Support System**: Through peer-to-peer mentoring and networking features, Hermony breaks down isolation barriers and creates access to guidance from those who have navigated similar challenges.
+5. **Community Support System**: Through peer-to-peer mentoring and networking features, Hermony breaks down isolation barriers and creates access to guidance from those who have navigated similar challenges.
 
 ### Tech Stack Used
 - **Frontend**: React, TypeScript, Vite, Tailwind CSS
 - **Backend**: Firebase (Authentication, Firestore, Real-time Database)
 - **APIs**: Google Calendar API, Dialogflow (for Balance Buddy AI)
 - **Analytics**: Custom dashboard for Burnout Tracker visualization
-
-## 📎 Submission Links
-
-- **Video Demo**: [Link to video demo](https://example.com/demo)
-- **GitHub Repository**: [https://github.com/byte-bosses/hermony](https://github.com/byte-bosses/hermony)
 
 ## ⚠ Additional Information
 
@@ -53,7 +50,7 @@ Hermony addresses these challenges through an integrated platform that combines:
 - We used ChatGPT and Claude AI to brainstorm feature  ideas and development of the application
 
 ### Presentation Link
-- [Final Presentation](https://example.com/presentation)
+- [Final Presentation](https://www.canva.com/design/DAGiYwYLXFE/1O8Oj5p1N0bIWN770rp-Lw/edit)
 
 ## ✨ Key Features
 
@@ -89,7 +86,7 @@ Hermony addresses these challenges through an integrated platform that combines:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/byte-bosses/hermony.git
+git clone https://github.com/hrishikasamani/Hermony.git
 cd hermony
 ```
 

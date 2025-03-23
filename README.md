@@ -50,7 +50,7 @@ Hermony addresses these challenges through an integrated platform that combines:
 - We used ChatGPT and Claude AI to brainstorm feature  ideas and development of the application
 
 ### Presentation Link
-- [Final Presentation](https://www.canva.com/design/DAGiYwYLXFE/1O8Oj5p1N0bIWN770rp-Lw/edit)
+- [Final Presentation]([https://www.canva.com/design/DAGiYwYLXFE/1O8Oj5p1N0bIWN770rp-Lw/edit])
 
 ## ✨ Key Features
 

@@ -51,6 +51,7 @@ Hermony addresses these challenges through an integrated platform that combines:
 
 ### Presentation Link
 - [Final Presentation](https://www.canva.com/design/DAGiYwYLXFE/1O8Oj5p1N0bIWN770rp-Lw/edit)
+- [Video Link](https://drive.google.com/drive/folders/1MBtgn53OyIvd2U5gKityJ7cMdReH9dmL?usp=sharing)
 
 ## ✨ Key Features
 

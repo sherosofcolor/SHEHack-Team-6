@@ -1,5 +1,7 @@
 # Hermony
 
+# Team 6
+
 ## Team Members
 - Hrisihika Samani
 - Dhanshree Suresh Baravkar
